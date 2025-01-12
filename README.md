@@ -11,7 +11,7 @@ Ensure you have a C compiler installed on your system (e.g., GCC).
 1. **Clone the repository to your local machine:**
 
     ```bash
-    git clone https://github.com/Snapman5678/decision-tree-classifier.git
+    https://github.com/Nanashibi/C-based-Decision-Tree-Classifier.git
     ```
 
 2. **Navigate to the project directory:**
